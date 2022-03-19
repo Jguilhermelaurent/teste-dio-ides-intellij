@@ -10,6 +10,7 @@ public class ProjetoLivrosobregatos {
         Gato gato = new Gato();
         Livrogatos livrogatos = new Livrogatos();
         System.out.println(gato);
+        System.out.println(livrogatos);
 
     }
 }
